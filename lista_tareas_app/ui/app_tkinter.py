@@ -1,5 +1,6 @@
 # interfaz gráfica creada
 # funciones de agregar, completar y eliminar implementadas
+# atajos de teclado implementados con bind
 import tkinter as tk
 from servicios.tarea_servicio import TareaServicio
 
