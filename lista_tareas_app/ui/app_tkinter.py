@@ -1,3 +1,4 @@
+# interfaz gráfica creada
 import tkinter as tk
 from servicios.tarea_servicio import TareaServicio
 
