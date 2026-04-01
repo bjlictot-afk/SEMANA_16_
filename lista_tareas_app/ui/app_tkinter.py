@@ -1,4 +1,5 @@
 # interfaz gráfica creada
+# funciones de agregar, completar y eliminar implementadas
 import tkinter as tk
 from servicios.tarea_servicio import TareaServicio
 
